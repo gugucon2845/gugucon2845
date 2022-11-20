@@ -1,4 +1,4 @@
-### 테스트 중..! 이에염 ⭐v⭐
+### 아직 테스트 중..! ⭐v⭐
 
 <!--
 **gugucon2845/gugucon2845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
