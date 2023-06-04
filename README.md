@@ -1,7 +1,5 @@
-<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:B296FF,100:C1D2DC&height=180&section=header&text=GuGuCon%20HELLO!&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
-
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1045936062561788025/1114958640558899230/1f5e31100a1f24e7.png" width="500px" height="500px" />
+  <img src="https://cdn.discordapp.com/attachments/1045936062561788025/1114965919547015301/333996f396b4afdb.png" width="500px" height="500px" />
 </div>
 
 <div align="center">
