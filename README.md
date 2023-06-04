@@ -2,8 +2,7 @@
 
 
 <div align="center">
-  <h3>My Language</h3>
-  <h6>현재 공부하고 있는 언어들 입니다!</h6>
+  <h2>My Language</h2>
 </div>
  
 <div align="center">
