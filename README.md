@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/kmin2078g@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
+  <h5>안녕하세요 저는..</h5>
 </div>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1045936062561788025/1114968824123502614/8af3c9e9c1e8d554.png" width="50%" height="50%"/>
+  <img src="https://cdn.discordapp.com/attachments/1045936062561788025/1115154124405735484/2.png" width="50%" height="50%"/>
 </div>
 
 <div align="center">
