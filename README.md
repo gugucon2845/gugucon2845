@@ -1,5 +1,5 @@
 <div align="center">
-  <h5>안녕하세요 저는..</h5>
+  <h5>"안녕"</h5>
 </div>
 
 <div align="center">
